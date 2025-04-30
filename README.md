@@ -1,0 +1,12 @@
+You are a senior full-stack engineer. Based on the provided UI design [insert Figma link, image, or detailed description], build a full-stack web application using the following stack:
+
+Frontend: React (with Vite), Tailwind CSS, Redux Toolkit
+Backend: Node.js with Express, MongoDB (using Mongoose)
+
+The frontend must faithfully replicate the UI, implementing all components, pages, and user flows. Use Tailwind CSS for styling and Redux Toolkit for state management. Ensure responsive design, smooth UX interactions, and accessibility best practices.
+
+The backend must expose a secure and scalable RESTful API that fully supports all UI-driven data operations. Use Mongoose to define schemas and interact with MongoDB. Include input validation, error handling, and authentication where applicable.
+
+Implement JWT-based authentication if login or registration is part of the UI. Hash passwords with bcrypt, protect private routes, and store tokens securely in localStorage on the frontend.
+
+Provide all necessary logic, components, models, controllers, routes, API handlers, and hooks. Clearly explain how the frontend and backend interact. Include instructions for running both the client and server in a development environment.
